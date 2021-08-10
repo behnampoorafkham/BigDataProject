@@ -1,5 +1,6 @@
 # BigDataProject
 work with java , kafka , cassandra , elasticsearch , redis , spark , .....
+
 we have 5 steps:
 1) perprocess : get information and find key word
 2) persistence : store in elastic search
